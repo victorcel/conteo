@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STC>
+  <CountRoom version="" gamingDate="2017-02-26T10:40:01" transactionDate="2017-02-27T09:47:22" id="R00003">
+    <CurrencyCounter model="41015" serialNumber="00003" manufacturer="CUMMINS">
+      <BillCassette slotNumber="11301" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="9" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611205071525684" />
+          <Ticket strap="" barcode="728670510000655606" />
+          <Ticket strap="" barcode="528611301085452326" />
+          <Ticket strap="" barcode="528611302073421348" />
+          <Ticket strap="" barcode="528611302073449793" />
+          <Ticket strap="" barcode="528610902039756609" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11302" id="">
+        <CurrencySet>
+          <Currency type="0" count="8" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="13" code="COP" denomination="20000.00" />
+          <Currency type="0" count="5" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611907053166204" />
+          <Ticket strap="" barcode="528611906039242710" />
+          <Ticket strap="" barcode="528611301085443386" />
+          <Ticket strap="" barcode="528611301085432427" />
+          <Ticket strap="" barcode="528611304083362505" />
+          <Ticket strap="" barcode="528611304083334007" />
+          <Ticket strap="" barcode="528611801034752786" />
+          <Ticket strap="" barcode="528610603023701888" />
+          <Ticket strap="" barcode="528611303075002351" />
+          <Ticket strap="" barcode="528611302073358255" />
+          <Ticket strap="" barcode="528610805042547304" />
+          <Ticket strap="" barcode="528612801008830402" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11303" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="8" code="COP" denomination="10000.00" />
+          <Currency type="0" count="5" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612803015519110" />
+          <Ticket strap="" barcode="528612810010576482" />
+          <Ticket strap="" barcode="528611304083422988" />
+          <Ticket strap="" barcode="528611803032004669" />
+          <Ticket strap="" barcode="528611303075095698" />
+          <Ticket strap="" barcode="528611304083384552" />
+          <Ticket strap="" barcode="528611304083394261" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11304" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="6" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610805042565377" />
+          <Ticket strap="" barcode="528610202018546925" />
+          <Ticket strap="" barcode="528611303075116188" />
+          <Ticket strap="" barcode="528611303075054077" />
+          <Ticket strap="" barcode="528611303075064083" />
+          <Ticket strap="" barcode="528611303075041398" />
+          <Ticket strap="" barcode="528611303075031566" />
+          <Ticket strap="" barcode="528611303075010165" />
+          <Ticket strap="" barcode="528611906039233985" />
+          <Ticket strap="" barcode="528612802007466470" />
+          <Ticket strap="" barcode="528611812035649630" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11305" id="">
+        <CurrencySet>
+          <Currency type="0" count="5" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="9" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611301085524870" />
+          <Ticket strap="" barcode="528611302073471671" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11501" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612103045264760" />
+          <Ticket strap="" barcode="528613204046047860" />
+          <Ticket strap="" barcode="528611503014883441" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11502" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611502017589701" />
+          <Ticket strap="" barcode="528612102041683919" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11503" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611502017598383" />
+          <Ticket strap="" barcode="528611501014706487" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11504" id="">
+        <CurrencySet>
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611503014898742" />
+          <Ticket strap="" barcode="528613204046094086" />
+          <Ticket strap="" barcode="528611606019872523" />
+          <Ticket strap="" barcode="528611201068695989" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11601" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611902032757145" />
+          <Ticket strap="" barcode="528611601020777508" />
+          <Ticket strap="" barcode="528611601020765673" />
+          <Ticket strap="" barcode="528612802007452558" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11602" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="10000.00" />
+          <Currency type="0" count="5" code="COP" denomination="20000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611602025384166" />
+          <Ticket strap="" barcode="528611602025407797" />
+          <Ticket strap="" barcode="528611602025428556" />
+          <Ticket strap="" barcode="528611602025440206" />
+          <Ticket strap="" barcode="528611602025466961" />
+          <Ticket strap="" barcode="528611602025496661" />
+          <Ticket strap="" barcode="528611602025512507" />
+          <Ticket strap="" barcode="528611602025531430" />
+          <Ticket strap="" barcode="528611602025555023" />
+          <Ticket strap="" barcode="528611602025571337" />
+          <Ticket strap="" barcode="528611603023201226" />
+          <Ticket strap="" barcode="528611602025560287" />
+          <Ticket strap="" barcode="528611602025541255" />
+          <Ticket strap="" barcode="528611602025522896" />
+          <Ticket strap="" barcode="528611602025484866" />
+          <Ticket strap="" barcode="528611602025501976" />
+          <Ticket strap="" barcode="528611602028474218" />
+          <Ticket strap="" barcode="528611602025452360" />
+          <Ticket strap="" barcode="528611602025435868" />
+          <Ticket strap="" barcode="528611602025415433" />
+          <Ticket strap="" barcode="528611602025392215" />
+          <Ticket strap="" barcode="528611602025372187" />
+          <Ticket strap="" barcode="528611602025344146" />
+          <Ticket strap="" barcode="528612802007482005" />
+          <Ticket strap="" barcode="528611603023060687" />
+          <Ticket strap="" barcode="528611604029386900" />
+          <Ticket strap="" barcode="528611601020783974" />
+          <Ticket strap="" barcode="5286131050366825" />
+          <Ticket strap="" barcode="528612205016993195" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11603" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="2000.00" />
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+          <Currency type="0" count="9" code="COP" denomination="10000.00" />
+          <Currency type="0" count="7" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612004029947887" />
+          <Ticket strap="" barcode="528611603023113840" />
+          <Ticket strap="" barcode="528611603023134845" />
+          <Ticket strap="" barcode="528611603023150340" />
+          <Ticket strap="" barcode="528611603023178580" />
+          <Ticket strap="" barcode="528611603023192821" />
+          <Ticket strap="" barcode="528611603023181528" />
+          <Ticket strap="" barcode="528611603023163302" />
+          <Ticket strap="" barcode="528611603023140617" />
+          <Ticket strap="" barcode="528611603023126963" />
+          <Ticket strap="" barcode="528611603023104237" />
+          <Ticket strap="" barcode="528612101071948135" />
+          <Ticket strap="" barcode="528611602025326623" />
+          <Ticket strap="" barcode="528613206029214900" />
+          <Ticket strap="" barcode="528612801008779701" />
+          <Ticket strap="" barcode="528611602025360245" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11604" id="">
+        <CurrencySet>
+          <Currency type="0" count="11" code="COP" denomination="2000.00" />
+          <Currency type="0" count="13" code="COP" denomination="5000.00" />
+          <Currency type="0" count="12" code="COP" denomination="10000.00" />
+          <Currency type="0" count="7" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611605027163173" />
+          <Ticket strap="" barcode="528611601020792167" />
+          <Ticket strap="" barcode="528613001014371442" />
+          <Ticket strap="" barcode="528613105036690649" />
+          <Ticket strap="" barcode="528611604029361266" />
+          <Ticket strap="" barcode="528612001034457790" />
+          <Ticket strap="" barcode="528612001034462312" />
+          <Ticket strap="" barcode="528613106035291462" />
+          <Ticket strap="" barcode="528613106035302526" />
+          <Ticket strap="" barcode="528611604029330408" />
+          <Ticket strap="" barcode="528611604029344160" />
+          <Ticket strap="" barcode="528611604029320683" />
+          <Ticket strap="" barcode="528611604029314682" />
+          <Ticket strap="" barcode="528611604029309008" />
+          <Ticket strap="" barcode="528611604029297848" />
+          <Ticket strap="" barcode="528611604029289669" />
+          <Ticket strap="" barcode="528613205029221918" />
+          <Ticket strap="" barcode="528611802030761208" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11605" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612806025807635" />
+          <Ticket strap="" barcode="728670510000309837" />
+          <Ticket strap="" barcode="528611606020008218" />
+          <Ticket strap="" barcode="528612205017017302" />
+          <Ticket strap="" barcode="528613205029267787" />
+          <Ticket strap="" barcode="528611605027115707" />
+          <Ticket strap="" barcode="528612002030594267" />
+          <Ticket strap="" barcode="528611606019887671" />
+          <Ticket strap="" barcode="528611604029262792" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11606" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611604029407391" />
+          <Ticket strap="" barcode="528611606019904088" />
+          <Ticket strap="" barcode="528611606019922242" />
+          <Ticket strap="" barcode="528611606019946453" />
+          <Ticket strap="" barcode="528611606019969117" />
+          <Ticket strap="" barcode="528611606019957558" />
+          <Ticket strap="" barcode="528611606019912717" />
+          <Ticket strap="" barcode="528611606019936843" />
+          <Ticket strap="" barcode="528611606019890145" />
+          <Ticket strap="" barcode="528611109033623510" />
+          <Ticket strap="" barcode="528611605027123733" />
+          <Ticket strap="" barcode="528611605027130212" />
+          <Ticket strap="" barcode="528612002030627309" />
+          <Ticket strap="" barcode="528611809037785602" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11701" id="">
+        <CurrencySet>
+          <Currency type="0" count="5" code="COP" denomination="2000.00" />
+          <Currency type="0" count="14" code="COP" denomination="5000.00" />
+          <Currency type="0" count="21" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613202035078390" />
+          <Ticket strap="" barcode="528613001014404164" />
+          <Ticket strap="" barcode="528611701058469922" />
+          <Ticket strap="" barcode="528611907053355035" />
+          <Ticket strap="" barcode="528611305043776561" />
+          <Ticket strap="" barcode="528620105016780292" />
+          <Ticket strap="" barcode="528611701058424532" />
+          <Ticket strap="" barcode="528611701058415752" />
+          <Ticket strap="" barcode="528613005016570209" />
+          <Ticket strap="" barcode="328611703061863919" />
+          <Ticket strap="" barcode="528611701058392602" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11702" id="">
+        <CurrencySet>
+          <Currency type="0" count="7" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="10" code="COP" denomination="10000.00" />
+          <Currency type="0" count="13" code="COP" denomination="20000.00" />
+          <Currency type="0" count="5" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611702063658981" />
+          <Ticket strap="" barcode="528611704063851614" />
+          <Ticket strap="" barcode="528612207020834266" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11703" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="22" code="COP" denomination="20000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610603023747701" />
+          <Ticket strap="" barcode="528611301085474960" />
+          <Ticket strap="" barcode="528611110050200936" />
+          <Ticket strap="" barcode="528611701058381897" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11704" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="8" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611704063881703" />
+          <Ticket strap="" barcode="528611704063865048" />
+          <Ticket strap="" barcode="528611305043745222" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12201" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12202" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="3014401407" />
+          <Ticket strap="" barcode="528610401035646278" />
+          <Ticket strap="" barcode="528613105036753306" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12203" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12204" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612207020853502" />
+          <Ticket strap="" barcode="528613205029280885" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12205" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="9" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613205029258952" />
+          <Ticket strap="" barcode="528612205016980935" />
+          <Ticket strap="" barcode="528612205017003848" />
+          <Ticket strap="" barcode="528612205017023198" />
+          <Ticket strap="" barcode="528612205017030806" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12206" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528612207020874552" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12207" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="20000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611704063843947" />
+          <Ticket strap="" barcode="528611201068754211" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12301" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="12302" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="12303" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12304" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12305" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613202035033146" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12306" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613204046106215" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12307" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611704063875443" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12308" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12801" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611603022976064" />
+          <Ticket strap="" barcode="528611601020754400" />
+          <Ticket strap="" barcode="528612811010409336" />
+          <Ticket strap="" barcode="528610801024704123" />
+          <Ticket strap="" barcode="528612709025633276" />
+          <Ticket strap="" barcode="728670510000313599" />
+          <Ticket strap="" barcode="528611301085494364" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12802" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613205029244412" />
+          <Ticket strap="" barcode="528612801008794698" />
+          <Ticket strap="" barcode="528612801008801488" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12803" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612008023036608" />
+          <Ticket strap="" barcode="528612902024959563" />
+          <Ticket strap="" barcode="528612802007474307" />
+          <Ticket strap="" barcode="528612802007512726" />
+          <Ticket strap="" barcode="528612803015459751" />
+          <Ticket strap="" barcode="528612803015464441" />
+          <Ticket strap="" barcode="528612803015474419" />
+          <Ticket strap="" barcode="528612801008824708" />
+          <Ticket strap="" barcode="528612802007529830" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12809" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="12810" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613006018792903" />
+          <Ticket strap="" barcode="528612803015496459" />
+          <Ticket strap="" barcode="528612008023116164" />
+          <Ticket strap="" barcode="528612810010622943" />
+          <Ticket strap="" barcode="528611605027176487" />
+          <Ticket strap="" barcode="528611605027185991" />
+          <Ticket strap="" barcode="528613001014356456" />
+          <Ticket strap="" barcode="528611005045008829" />
+          <Ticket strap="" barcode="528611202073002496" />
+          <Ticket strap="" barcode="528612810010633178" />
+          <Ticket strap="" barcode="528612810010653114" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12811" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="13001" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="11" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610903029662566" />
+          <Ticket strap="" barcode="528611007044626424" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13002" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612504024823242" />
+          <Ticket strap="" barcode="528613002015487118" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13003" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="13004" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="13005" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610810015269169" />
+          <Ticket strap="" barcode="528613101032233972" />
+          <Ticket strap="" barcode="528612904033776179" />
+          <Ticket strap="" barcode="528612905030400142" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13006" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612811010383926" />
+          <Ticket strap="" barcode="528612803015442777" />
+          <Ticket strap="" barcode="528612801008813689" />
+          <Ticket strap="" barcode="528612901029932571" />
+          <Ticket strap="" barcode="528611301085463018" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13101" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613103028585713" />
+          <Ticket strap="" barcode="728670510000574914" />
+          <Ticket strap="" barcode="528611303075121953" />
+          <Ticket strap="" barcode="528613106035325426" />
+          <Ticket strap="" barcode="528613101032163989" />
+          <Ticket strap="" barcode="528613101032158480" />
+          <Ticket strap="" barcode="528613101032144681" />
+          <Ticket strap="" barcode="528613101032131919" />
+          <Ticket strap="" barcode="528613101032103084" />
+          <Ticket strap="" barcode="528613101032111584" />
+          <Ticket strap="" barcode="528613101032127240" />
+          <Ticket strap="" barcode="528613101032044363" />
+          <Ticket strap="" barcode="528613101032054232" />
+          <Ticket strap="" barcode="528613101032033626" />
+          <Ticket strap="" barcode="528613101032062565" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13102" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612702047046567" />
+          <Ticket strap="" barcode="528612005032053602" />
+          <Ticket strap="" barcode="528613101032090926" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13103" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="23" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613104030467134" />
+          <Ticket strap="" barcode="528613102028317560" />
+          <Ticket strap="" barcode="528613102028331849" />
+          <Ticket strap="" barcode="528613101032189392" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13104" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="67" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613103028574021" />
+          <Ticket strap="" barcode="528613105036725884" />
+          <Ticket strap="" barcode="528611504024151308" />
+          <Ticket strap="" barcode="528613204046081680" />
+          <Ticket strap="" barcode="528613104030488481" />
+          <Ticket strap="" barcode="528613103028594081" />
+          <Ticket strap="" barcode="528613102028345846" />
+          <Ticket strap="" barcode="528613202035136502" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13105" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="10" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613206029242163" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13106" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="12" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613105036730567" />
+          <Ticket strap="" barcode="528613104030503764" />
+          <Ticket strap="" barcode="528613106035336408" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13201" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613202035021921" />
+          <Ticket strap="" barcode="528613201031576282" />
+          <Ticket strap="" barcode="528612806025794164" />
+          <Ticket strap="" barcode="528613202035083226" />
+          <Ticket strap="" barcode="528611701058473943" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13202" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610903029473186" />
+          <Ticket strap="" barcode="528613204046033481" />
+          <Ticket strap="" barcode="528613201031583556" />
+          <Ticket strap="" barcode="528612801008848513" />
+          <Ticket strap="" barcode="528610805042554722" />
+          <Ticket strap="" barcode="528613202035099982" />
+          <Ticket strap="" barcode="528613202035107564" />
+          <Ticket strap="" barcode="528613203026947787" />
+          <Ticket strap="" barcode="528613202035116900" />
+          <Ticket strap="" barcode="528613201031619699" />
+          <Ticket strap="" barcode="528611203051300085" />
+          <Ticket strap="" barcode="528613203026954921" />
+          <Ticket strap="" barcode="528613203026962957" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13203" id="">
+        <CurrencySet>
+          <Currency type="0" count="7" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612811010436776" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13204" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="20000.00" />
+          <Currency type="0" count="9" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611301085487861" />
+          <Ticket strap="" barcode="528612811010450574" />
+          <Ticket strap="" barcode="528612811010444887" />
+          <Ticket strap="" barcode="528613204046050259" />
+          <Ticket strap="" barcode="528613204046060180" />
+          <Ticket strap="" barcode="528611501014694739" />
+          <Ticket strap="" barcode="528612105095623900" />
+          <Ticket strap="" barcode="528613201031538303" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13205" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611604029241995" />
+          <Ticket strap="" barcode="528611302073390958" />
+          <Ticket strap="" barcode="528613001014369685" />
+          <Ticket strap="" barcode="528612105095707068" />
+          <Ticket strap="" barcode="528613206029238791" />
+          <Ticket strap="" barcode="528611702063684560" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="13206" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611604029278052" />
+          <Ticket strap="" barcode="528611303075026548" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11801" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611812035627461" />
+          <Ticket strap="" barcode="528612106070390367" />
+          <Ticket strap="" barcode="528611201068726324" />
+          <Ticket strap="" barcode="528610603023726850" />
+          <Ticket strap="" barcode="528612105095752051" />
+          <Ticket strap="" barcode="528611502017605166" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11802" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611803031980650" />
+          <Ticket strap="" barcode="528611203051254425" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11803" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611803031997825" />
+          <Ticket strap="" barcode="528620302004018027" />
+          <Ticket strap="" barcode="528620302004009155" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11804" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="5" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611108030929700" />
+          <Ticket strap="" barcode="528611806028668074" />
+          <Ticket strap="" barcode="528612105095647258" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11805" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611806028694967" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11806" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611501014681807" />
+          <Ticket strap="" barcode="528611203051246567" />
+          <Ticket strap="" barcode="528611204048129764" />
+          <Ticket strap="" barcode="528611206094538262" />
+          <Ticket strap="" barcode="528610902039781571" />
+          <Ticket strap="" barcode="528611807031443443" />
+          <Ticket strap="" barcode="528611806028681929" />
+          <Ticket strap="" barcode="528611806028673467" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11807" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="11808" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612704034264428" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11809" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610403034756880" />
+          <Ticket strap="" barcode="528611810040833624" />
+          <Ticket strap="" barcode="528611903044585603" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11810" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611804033818545" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11811" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="11812" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611304083311480" />
+          <Ticket strap="" barcode="528611504024172280" />
+          <Ticket strap="" barcode="528611801034742299" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11813" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="6" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="728670510000560108" />
+          <Ticket strap="" barcode="528611813032234461" />
+          <Ticket strap="" barcode="528620201007121508" />
+          <Ticket strap="" barcode="528613101032222907" />
+          <Ticket strap="" barcode="528611813032276133" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11814" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="14" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611004035381607" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11901" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610806010734306" />
+          <Ticket strap="" barcode="5286119010" />
+          <Ticket strap="" barcode="528611901036814021" />
+          <Ticket strap="" barcode="528610101015565871" />
+          <Ticket strap="" barcode="528611303075130160" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11902" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612810010601672" />
+          <Ticket strap="" barcode="528611006030264176" />
+          <Ticket strap="" barcode="528612805025584409" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11903" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611904059084075" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11904" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611908065034314" />
+          <Ticket strap="" barcode="528612901029917615" />
+          <Ticket strap="" barcode="528611901036822101" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11905" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611902032765904" />
+          <Ticket strap="" barcode="528611908065011308" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11906" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611908065046089" />
+          <Ticket strap="" barcode="528611905044005860" />
+          <Ticket strap="" barcode="528611908065083701" />
+          <Ticket strap="" barcode="528611905043980304" />
+          <Ticket strap="" barcode="528611302073405485" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11907" id="">
+        <CurrencySet>
+          <Currency type="0" count="36" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611907053361890" />
+          <Ticket strap="" barcode="528611907053373442" />
+          <Ticket strap="" barcode="528611907053296314" />
+          <Ticket strap="" barcode="528611907053383380" />
+          <Ticket strap="" barcode="528611907053394928" />
+          <Ticket strap="" barcode="528611907053405303" />
+          <Ticket strap="" barcode="528611907053414688" />
+          <Ticket strap="" barcode="528611907053270086" />
+          <Ticket strap="" barcode="528611907053427947" />
+          <Ticket strap="" barcode="528611907053435317" />
+          <Ticket strap="" barcode="528611907053447402" />
+          <Ticket strap="" barcode="528611203051293226" />
+          <Ticket strap="" barcode="528611907053467769" />
+          <Ticket strap="" barcode="528611907053305139" />
+          <Ticket strap="" barcode="528611907053347221" />
+          <Ticket strap="" barcode="528611907053316296" />
+          <Ticket strap="" barcode="528611907053320699" />
+          <Ticket strap="" barcode="528611907053251818" />
+          <Ticket strap="" barcode="528611907053231896" />
+          <Ticket strap="" barcode="528611907053243110" />
+          <Ticket strap="" barcode="528611907053195624" />
+          <Ticket strap="" barcode="528611907053202636" />
+          <Ticket strap="" barcode="528611907053214523" />
+          <Ticket strap="" barcode="528611002030503284" />
+          <Ticket strap="" barcode="528611002030544799" />
+          <Ticket strap="" barcode="528611908065054800" />
+          <Ticket strap="" barcode="528612807027175821" />
+          <Ticket strap="" barcode="528610904031014725" />
+          <Ticket strap="" barcode="528611906039226727" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11908" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="7" code="COP" denomination="5000.00" />
+          <Currency type="0" count="8" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611908065063949" />
+          <Ticket strap="" barcode="528612803015485439" />
+          <Ticket strap="" barcode="528611701058341358" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12001" id="">
+        <CurrencySet>
+          <Currency type="0" count="8" code="COP" denomination="2000.00" />
+          <Currency type="0" count="9" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611110050115667" />
+          <Ticket strap="" barcode="528612001034443533" />
+          <Ticket strap="" barcode="528611104041831674" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12002" id="">
+        <CurrencySet>
+          <Currency type="0" count="5" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612105095664163" />
+          <Ticket strap="" barcode="528611901036782085" />
+          <Ticket strap="" barcode="528612008023080526" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12003" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612003031828023" />
+          <Ticket strap="" barcode="528612003031843187" />
+          <Ticket strap="" barcode="528612002030577567" />
+          <Ticket strap="" barcode="528611605027109270" />
+          <Ticket strap="" barcode="528611908065074891" />
+          <Ticket strap="" barcode="528612003031856149" />
+          <Ticket strap="" barcode="528612003031862638" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12004" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12005" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612206021121436" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12006" id="">
+        <CurrencySet>
+          <Currency type="0" count="7" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12007" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612008023066728" />
+          <Ticket strap="" barcode="528612008023076802" />
+          <Ticket strap="" barcode="528612008023042869" />
+          <Ticket strap="" barcode="528612007020559127" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12008" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="7" code="COP" denomination="5000.00" />
+          <Currency type="0" count="7" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="728670510000544146" />
+          <Ticket strap="" barcode="528612008023098316" />
+          <Ticket strap="" barcode="528612008023104482" />
+          <Ticket strap="" barcode="528612007020589162" />
+          <Ticket strap="" barcode="528612008023059867" />
+          <Ticket strap="" barcode="528612007020579972" />
+          <Ticket strap="" barcode="528612002030534409" />
+          <Ticket strap="" barcode="528612007020540958" />
+          <Ticket strap="" barcode="528612002030524134" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12101" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="11" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611902032724222" />
+          <Ticket strap="" barcode="528612102041673903" />
+          <Ticket strap="" barcode="528612101071993395" />
+          <Ticket strap="" barcode="528612102041664482" />
+          <Ticket strap="" barcode="528612105095694009" />
+          <Ticket strap="" barcode="528620110006346457" />
+          <Ticket strap="" barcode="528612710027764028" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12102" id="">
+        <CurrencySet>
+          <Currency type="0" count="7" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612104063292049" />
+          <Ticket strap="" barcode="528620101008369407" />
+          <Ticket strap="" barcode="528612104063314550" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12103" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12104" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="7" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612101071961707" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12105" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="14" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612106070439288" />
+          <Ticket strap="" barcode="528611303075072507" />
+          <Ticket strap="" barcode="528612105095742649" />
+          <Ticket strap="" barcode="528612105095674162" />
+          <Ticket strap="" barcode="528612708027741514" />
+          <Ticket strap="" barcode="528612101071956321" />
+          <Ticket strap="" barcode="528611206094542566" />
+          <Ticket strap="" barcode="528612101071973144" />
+          <Ticket strap="" barcode="528612106070425533" />
+          <Ticket strap="" barcode="528612105095612928" />
+          <Ticket strap="" barcode="528612106070382232" />
+          <Ticket strap="" barcode="528612106070404538" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12106" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="6" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612105095715117" />
+          <Ticket strap="" barcode="528612108053830327" />
+          <Ticket strap="" barcode="528612108053843044" />
+          <Ticket strap="" barcode="528612107045274026" />
+          <Ticket strap="" barcode="528612108053865701" />
+          <Ticket strap="" barcode="528612001034439208" />
+          <Ticket strap="" barcode="528612105095722054" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12107" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12108" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612105095683140" />
+          <Ticket strap="" barcode="528612704034221230" />
+          <Ticket strap="" barcode="528611810040842008" />
+          <Ticket strap="" barcode="528612107045261491" />
+          <Ticket strap="" barcode="528612106070369721" />
+          <Ticket strap="" barcode="528612106070370185" />
+          <Ticket strap="" barcode="528612808021093197" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12701" id="">
+        <CurrencySet>
+          <Currency type="0" count="11" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612004029924789" />
+          <Ticket strap="" barcode="528612703027492152" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12702" id="">
+        <CurrencySet>
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612703027422074" />
+          <Ticket strap="" barcode="528612703027484713" />
+          <Ticket strap="" barcode="528612702047087997" />
+          <Ticket strap="" barcode="528611302073436151" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12703" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612702047072832" />
+          <Ticket strap="" barcode="528612702047061850" />
+          <Ticket strap="" barcode="528612704034211033" />
+          <Ticket strap="" barcode="528612703027474264" />
+          <Ticket strap="" barcode="528612703027465125" />
+          <Ticket strap="" barcode="528612702047093783" />
+          <Ticket strap="" barcode="528612707028253958" />
+          <Ticket strap="" barcode="528612702047104137" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12704" id="">
+        <CurrencySet>
+          <Currency type="0" count="5" code="COP" denomination="2000.00" />
+          <Currency type="0" count="8" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612703027517947" />
+          <Ticket strap="" barcode="528612705032584600" />
+          <Ticket strap="" barcode="528612703027452705" />
+          <Ticket strap="" barcode="528612704034247995" />
+          <Ticket strap="" barcode="528612703027439683" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12705" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612708027720939" />
+          <Ticket strap="" barcode="528612710027731785" />
+          <Ticket strap="" barcode="528612710027740022" />
+          <Ticket strap="" barcode="528612104063308542" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12706" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12707" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528612708027730648" />
+          <Ticket strap="" barcode="528612705032560048" />
+          <Ticket strap="" barcode="528612708027756549" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12708" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612102041644323" />
+          <Ticket strap="" barcode="528612708027719674" />
+          <Ticket strap="" barcode="528612705032552425" />
+          <Ticket strap="" barcode="528612707028240422" />
+          <Ticket strap="" barcode="528612705032573352" />
+          <Ticket strap="" barcode="528612709025625677" />
+          <Ticket strap="" barcode="528612706025743448" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12709" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612710027773402" />
+          <Ticket strap="" barcode="528611404053954423" />
+          <Ticket strap="" barcode="528612709025643336" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12710" id="">
+        <CurrencySet>
+          <Currency type="0" count="8" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612710027754807" />
+          <Ticket strap="" barcode="528612709025611533" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12804" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="5" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612202016904114" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12805" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612806025777167" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12806" id="">
+        <CurrencySet>
+          <Currency type="0" count="24" code="COP" denomination="2000.00" />
+          <Currency type="0" count="5" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612806025750405" />
+          <Ticket strap="" barcode="528613103028569522" />
+          <Ticket strap="" barcode="528612805025571515" />
+          <Ticket strap="" barcode="728670510000634168" />
+          <Ticket strap="" barcode="528611901036834470" />
+          <Ticket strap="" barcode="528612807027150668" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12807" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="5" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612808021100734" />
+          <Ticket strap="" barcode="528612807027165426" />
+          <Ticket strap="" barcode="528610801024718601" />
+          <Ticket strap="" barcode="528612808021119118" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12808" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612107045297544" />
+          <Ticket strap="" barcode="528612105095630731" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20101" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620102010075324" />
+          <Ticket strap="" barcode="528620103010430670" />
+          <Ticket strap="" barcode="528620103010453945" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20102" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620110006332474" />
+          <Ticket strap="" barcode="528613203026939843" />
+          <Ticket strap="" barcode="528620104020095811" />
+          <Ticket strap="" barcode="528620110006350935" />
+          <Ticket strap="" barcode="528620105016804455" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20103" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620102010099269" />
+          <Ticket strap="" barcode="528620102010111336" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20104" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620109007464109" />
+          <Ticket strap="" barcode="528620102010108008" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20105" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620402015763555" />
+          <Ticket strap="" barcode="528610805042536216" />
+          <Ticket strap="" barcode="528620107016264529" />
+          <Ticket strap="" barcode="528620104020106203" />
+          <Ticket strap="" barcode="528620105016779043" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20106" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611811035071762" />
+          <Ticket strap="" barcode="528620104020088967" />
+          <Ticket strap="" barcode="528620102010085873" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20107" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="20108" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528612704034236203" />
+          <Ticket strap="" barcode="528620108008522054" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20109" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620108008538208" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20110" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620103010444400" />
+          <Ticket strap="" barcode="528611202072981334" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20201" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="728670510000552332" />
+          <Ticket strap="" barcode="528620201007095045" />
+          <Ticket strap="" barcode="528620201007114340" />
+          <Ticket strap="" barcode="528620201007131309" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20202" id="">
+        <CurrencySet>
+          <Currency type="0" count="5" code="COP" denomination="20000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="20203" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="20204" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="6" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620204005564605" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20301" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="20302" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611902032744404" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20303" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="20304" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="17" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="20401" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612008023128150" />
+          <Ticket strap="" barcode="528611110050228404" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20402" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620401006774303" />
+          <Ticket strap="" barcode="528620403013236294" />
+          <Ticket strap="" barcode="528620402015756489" />
+          <Ticket strap="" barcode="528620104020113195" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20403" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620402015743496" />
+          <Ticket strap="" barcode="528620403013193306" />
+          <Ticket strap="" barcode="528620403013201537" />
+          <Ticket strap="" barcode="528620403013212564" />
+          <Ticket strap="" barcode="528620402015772205" />
+          <Ticket strap="" barcode="528620403013245302" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="20404" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="11401" id="">
+        <CurrencySet>
+          <Currency type="0" count="10" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612807027182041" />
+          <Ticket strap="" barcode="528611401055601287" />
+          <Ticket strap="" barcode="528611703061881913" />
+          <Ticket strap="" barcode="528611402048315440" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11402" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="7" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="8" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611701058432469" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11403" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="7" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611403045496484" />
+          <Ticket strap="" barcode="528612803015434444" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11404" id="">
+        <CurrencySet>
+          <Currency type="0" count="7" code="COP" denomination="2000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611401055645243" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10101" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528612901029904479" />
+          <Ticket strap="" barcode="528610402036816004" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10102" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="10201" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611812035655068" />
+          <Ticket strap="" barcode="528612901029898983" />
+          <Ticket strap="" barcode="528610402036784068" />
+          <Ticket strap="" barcode="528613206029225449" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10202" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611801034763348" />
+          <Ticket strap="" barcode="528612903024822413" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10301" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610306027881067" />
+          <Ticket strap="" barcode="528613101032195607" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10302" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="10303" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="10304" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="19" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610810015277843" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10305" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610304020157066" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10306" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="10307" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610301030182385" />
+          <Ticket strap="" barcode="528610308019830572" />
+          <Ticket strap="" barcode="528610307030322882" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10308" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611107032436568" />
+          <Ticket strap="" barcode="528610308019821990" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10401" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610404027757877" />
+          <Ticket strap="" barcode="528610501013782636" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10402" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="5" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610401035656529" />
+          <Ticket strap="" barcode="528610402036796511" />
+          <Ticket strap="" barcode="528610201017983786" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10403" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612004029939868" />
+          <Ticket strap="" barcode="528610703028167372" />
+          <Ticket strap="" barcode="528610403034760924" />
+          <Ticket strap="" barcode="528610403034773672" />
+          <Ticket strap="" barcode="528612904033766644" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10404" id="">
+        <CurrencySet>
+          <Currency type="0" count="14" code="COP" denomination="2000.00" />
+          <Currency type="0" count="18" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610404027745683" />
+          <Ticket strap="" barcode="528610404027734168" />
+          <Ticket strap="" barcode="528610404027723827" />
+          <Ticket strap="" barcode="528610404027713842" />
+          <Ticket strap="" barcode="528610404027701368" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10501" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528610101015554240" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10502" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612904033716908" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10503" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="10504" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="10601" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528610804029415209" />
+          <Ticket strap="" barcode="528610403034718000" />
+          <Ticket strap="" barcode="528610403034705659" />
+          <Ticket strap="" barcode="528610403034692430" />
+          <Ticket strap="" barcode="528610403034736424" />
+          <Ticket strap="" barcode="528610403034722328" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10602" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="10603" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610903029483291" />
+          <Ticket strap="" barcode="528611201068715014" />
+          <Ticket strap="" barcode="528610903029641530" />
+          <Ticket strap="" barcode="528612804027156539" />
+          <Ticket strap="" barcode="528610903029681031" />
+          <Ticket strap="" barcode="528611302073461887" />
+          <Ticket strap="" barcode="528613205029274709" />
+          <Ticket strap="" barcode="528611703061907330" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10604" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="5" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610503011353207" />
+          <Ticket strap="" barcode="528610604020970772" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10701" id="">
+        <CurrencySet>
+          <Currency type="0" count="18" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610601024034684" />
+          <Ticket strap="" barcode="528610702024841842" />
+          <Ticket strap="" barcode="528610701025171538" />
+          <Ticket strap="" barcode="528610701025164080" />
+          <Ticket strap="" barcode="528610704031649060" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10702" id="">
+        <CurrencySet>
+          <Currency type="0" count="14" code="COP" denomination="2000.00" />
+          <Currency type="0" count="9" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611108030952470" />
+          <Ticket strap="" barcode="528610702024821233" />
+          <Ticket strap="" barcode="528610702024813474" />
+          <Ticket strap="" barcode="528610702024800955" />
+          <Ticket strap="" barcode="528610702024793837" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10703" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="10" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="704031866405" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10704" id="">
+        <CurrencySet>
+          <Currency type="0" count="11" code="COP" denomination="2000.00" />
+          <Currency type="0" count="7" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611107032475420" />
+          <Ticket strap="" barcode="528610704031848746" />
+          <Ticket strap="" barcode="528610704031854235" />
+          <Ticket strap="" barcode="528610704031834633" />
+          <Ticket strap="" barcode="528610704031823200" />
+          <Ticket strap="" barcode="528611804033827202" />
+          <Ticket strap="" barcode="528610704031655566" />
+          <Ticket strap="" barcode="528610704031679388" />
+          <Ticket strap="" barcode="528610704031699287" />
+          <Ticket strap="" barcode="528610704031663738" />
+          <Ticket strap="" barcode="528610704031689554" />
+          <Ticket strap="" barcode="528610704031700587" />
+          <Ticket strap="" barcode="528610704031713310" />
+          <Ticket strap="" barcode="528611001042612076" />
+          <Ticket strap="" barcode="528610704031734728" />
+          <Ticket strap="" barcode="528610704031756324" />
+          <Ticket strap="" barcode="528610704031775202" />
+          <Ticket strap="" barcode="528610704031796931" />
+          <Ticket strap="" barcode="528610704031809129" />
+          <Ticket strap="" barcode="528610704031782552" />
+          <Ticket strap="" barcode="528610704031763018" />
+          <Ticket strap="" barcode="528610704031742785" />
+          <Ticket strap="" barcode="528610704031722565" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10801" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611304083441958" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10802" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="10803" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611812035630126" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10804" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612308017668007" />
+          <Ticket strap="" barcode="528610804029422214" />
+          <Ticket strap="" barcode="528610804029435702" />
+          <Ticket strap="" barcode="528610805042577219" />
+          <Ticket strap="" barcode="528610803041476021" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10805" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612307016592221" />
+          <Ticket strap="" barcode="528610803041487287" />
+          <Ticket strap="" barcode="528611201068791841" />
+          <Ticket strap="" barcode="528620401006763413" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10806" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528613006018769974" />
+          <Ticket strap="" barcode="528612811010396186" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10807" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612202016885659" />
+          <Ticket strap="" barcode="528610807015838723" />
+          <Ticket strap="" barcode="528613204046025493" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10808" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="52862040100678" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10809" id="">
+        <CurrencySet />
+        <TicketSet>
+          <Ticket strap="" barcode="528610807015855256" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10810" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610808013906162" />
+          <Ticket strap="" barcode="528610903029534658" />
+          <Ticket strap="" barcode="528610903029558869" />
+          <Ticket strap="" barcode="528610903029565669" />
+          <Ticket strap="" barcode="528610903029503012" />
+          <Ticket strap="" barcode="528610903029525946" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10901" id="">
+        <CurrencySet />
+      </BillCassette>
+      <BillCassette slotNumber="10902" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611907053144646" />
+          <Ticket strap="" barcode="528611004035372643" />
+          <Ticket strap="" barcode="528611201068709785" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10903" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610904031007192" />
+          <Ticket strap="" barcode="528610903029490725" />
+          <Ticket strap="" barcode="528610903029512588" />
+          <Ticket strap="" barcode="528610903029543827" />
+          <Ticket strap="" barcode="528610903029576290" />
+          <Ticket strap="" barcode="528610903029582727" />
+          <Ticket strap="" barcode="528610810015250747" />
+          <Ticket strap="" barcode="528610903029606348" />
+          <Ticket strap="" barcode="528610604020921484" />
+          <Ticket strap="" barcode="528610307030343122" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="10904" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="11001" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611005044978451" />
+          <Ticket strap="" barcode="528611001042597458" />
+          <Ticket strap="" barcode="528611005044989075" />
+          <Ticket strap="" barcode="528611001042600059" />
+          <Ticket strap="" barcode="528611001042635594" />
+          <Ticket strap="" barcode="528611003033885520" />
+          <Ticket strap="" barcode="528611301085506890" />
+          <Ticket strap="" barcode="528612703027525805" />
+          <Ticket strap="" barcode="528612906023174378" />
+          <Ticket strap="" barcode="528611303075140534" />
+          <Ticket strap="" barcode="528611304083432642" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11002" id="">
+        <CurrencySet>
+          <Currency type="0" count="15" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611002030532888" />
+          <Ticket strap="" barcode="528611002030594794" />
+          <Ticket strap="" barcode="528611002030558642" />
+          <Ticket strap="" barcode="528611002030605629" />
+          <Ticket strap="" barcode="528611002030521660" />
+          <Ticket strap="" barcode="528611002030515423" />
+          <Ticket strap="" barcode="528611002030618605" />
+          <Ticket strap="" barcode="528611002030622053" />
+          <Ticket strap="" barcode="528611002030633219" />
+          <Ticket strap="" barcode="528611002030580407" />
+          <Ticket strap="" barcode="528611002030575250" />
+          <Ticket strap="" barcode="528611002030654931" />
+          <Ticket strap="" barcode="528611002030665968" />
+          <Ticket strap="" barcode="528611002030673086" />
+          <Ticket strap="" barcode="528611002030682422" />
+          <Ticket strap="" barcode="528611002030699208" />
+          <Ticket strap="" barcode="528611002030703110" />
+          <Ticket strap="" barcode="528613201031596808" />
+          <Ticket strap="" barcode="528611001042645869" />
+          <Ticket strap="" barcode="528611002030437060" />
+          <Ticket strap="" barcode="528611002030423148" />
+          <Ticket strap="" barcode="528611002030453985" />
+          <Ticket strap="" barcode="528611002030462741" />
+          <Ticket strap="" barcode="528611002030477226" />
+          <Ticket strap="" barcode="528611002030480769" />
+          <Ticket strap="" barcode="528611002030442422" />
+          <Ticket strap="" barcode="528611002030490348" />
+          <Ticket strap="" barcode="528612701047082346" />
+          <Ticket strap="" barcode="528612108053891854" />
+          <Ticket strap="" barcode="528612704034257734" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11003" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611304083358164" />
+          <Ticket strap="" barcode="528612810010581646" />
+          <Ticket strap="" barcode="528611002030720285" />
+          <Ticket strap="" barcode="528611004035400872" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11004" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611814038965762" />
+          <Ticket strap="" barcode="528611003033906959" />
+          <Ticket strap="" barcode="528612806025769452" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11005" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613205029217522" />
+          <Ticket strap="" barcode="528611005044967356" />
+          <Ticket strap="" barcode="528611005044951607" />
+          <Ticket strap="" barcode="528611005044944609" />
+          <Ticket strap="" barcode="528611003033894836" />
+          <Ticket strap="" barcode="528611004035390623" />
+          <Ticket strap="" barcode="528613006018809281" />
+          <Ticket strap="" barcode="528611906039255994" />
+          <Ticket strap="" barcode="528611005045055045" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11006" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611203051289786" />
+          <Ticket strap="" barcode="528611005044993645" />
+          <Ticket strap="" barcode="528611007044638328" />
+          <Ticket strap="" barcode="528611201068770624" />
+          <Ticket strap="" barcode="528611007044649065" />
+          <Ticket strap="" barcode="528611005045032237" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11007" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611403045470682" />
+          <Ticket strap="" barcode="528611002030642129" />
+          <Ticket strap="" barcode="528611002030568870" />
+          <Ticket strap="" barcode="528611005045025123" />
+          <Ticket strap="" barcode="528611006030274847" />
+          <Ticket strap="" barcode="528611201068826420" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11101" id="">
+        <CurrencySet>
+          <Currency type="0" count="17" code="COP" denomination="5000.00" />
+          <Currency type="0" count="13" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611104042233248" />
+          <Ticket strap="" barcode="528611105058513355" />
+          <Ticket strap="" barcode="528611109033541241" />
+          <Ticket strap="" barcode="528611101054027360" />
+          <Ticket strap="" barcode="528611103041692469" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11102" id="">
+        <CurrencySet>
+          <Currency type="0" count="15" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610702024852404" />
+          <Ticket strap="" barcode="528611102045054341" />
+          <Ticket strap="" barcode="528611102045078422" />
+          <Ticket strap="" barcode="528611102045090523" />
+          <Ticket strap="" barcode="528611103041748494" />
+          <Ticket strap="" barcode="528611102045126901" />
+          <Ticket strap="" barcode="528611102045102301" />
+          <Ticket strap="" barcode="528611102045083143" />
+          <Ticket strap="" barcode="528611102045141904" />
+          <Ticket strap="" barcode="528611102045168369" />
+          <Ticket strap="" barcode="528611102045182563" />
+          <Ticket strap="" barcode="528611102045208348" />
+          <Ticket strap="" barcode="528612001034482372" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11103" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611104042229036" />
+          <Ticket strap="" barcode="528611802030779609" />
+          <Ticket strap="" barcode="528611102045116247" />
+          <Ticket strap="" barcode="528611103041733254" />
+          <Ticket strap="" barcode="528612803015428443" />
+          <Ticket strap="" barcode="528612008023002504" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11104" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611104042180580" />
+          <Ticket strap="" barcode="528610902039747256" />
+          <Ticket strap="" barcode="528611105058495460" />
+          <Ticket strap="" barcode="528611103041722456" />
+          <Ticket strap="" barcode="528611102045223730" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11105" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613205029238961" />
+          <Ticket strap="" barcode="528611105058509549" />
+          <Ticket strap="" barcode="528610805042584781" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11106" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="7" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="10000.00" />
+          <Currency type="0" count="7" code="COP" denomination="20000.00" />
+          <Currency type="0" count="5" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613102028321895" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11107" id="">
+        <CurrencySet>
+          <Currency type="0" count="14" code="COP" denomination="5000.00" />
+          <Currency type="0" count="7" code="COP" denomination="10000.00" />
+          <Currency type="0" count="5" code="COP" denomination="20000.00" />
+          <Currency type="0" count="5" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611108030965142" />
+          <Ticket strap="" barcode="528611106043088704" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11108" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="2000.00" />
+          <Currency type="0" count="30" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="6" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611201068836535" />
+          <Ticket strap="" barcode="528611109033630808" />
+          <Ticket strap="" barcode="528611803032019922" />
+          <Ticket strap="" barcode="528611107032457525" />
+          <Ticket strap="" barcode="528611202072974817" />
+          <Ticket strap="" barcode="528612002030612848" />
+          <Ticket strap="" barcode="528612002030548161" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11109" id="">
+        <CurrencySet>
+          <Currency type="0" count="16" code="COP" denomination="5000.00" />
+          <Currency type="0" count="12" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612811010419922" />
+          <Ticket strap="" barcode="528611804033836488" />
+          <Ticket strap="" barcode="528611109033555705" />
+          <Ticket strap="" barcode="528612002030586422" />
+          <Ticket strap="" barcode="528611109033576588" />
+          <Ticket strap="" barcode="528611109033598238" />
+          <Ticket strap="" barcode="528611110050183345" />
+          <Ticket strap="" barcode="528611110050173926" />
+          <Ticket strap="" barcode="528611110050157865" />
+          <Ticket strap="" barcode="528611109033602409" />
+          <Ticket strap="" barcode="528611109033583166" />
+          <Ticket strap="" barcode="528611109033564493" />
+          <Ticket strap="" barcode="528611109033614013" />
+          <Ticket strap="" barcode="528611110050194174" />
+          <Ticket strap="" barcode="528612002030559044" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11110" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="11" code="COP" denomination="5000.00" />
+          <Currency type="0" count="13" code="COP" denomination="20000.00" />
+          <Currency type="0" count="5" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611110050090360" />
+          <Ticket strap="" barcode="528612002030562167" />
+          <Ticket strap="" barcode="528611110050143516" />
+          <Ticket strap="" barcode="528611110050165723" />
+          <Ticket strap="" barcode="528612002030604362" />
+          <Ticket strap="" barcode="528611401055611408" />
+          <Ticket strap="" barcode="528612901029922411" />
+          <Ticket strap="" barcode="528611202073044786" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11201" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="4" code="COP" denomination="10000.00" />
+          <Currency type="0" count="6" code="COP" denomination="20000.00" />
+          <Currency type="0" count="7" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613206029202808" />
+          <Ticket strap="" barcode="528610903029659344" />
+          <Ticket strap="" barcode="528611202072961251" />
+          <Ticket strap="" barcode="528612704034284785" />
+          <Ticket strap="" barcode="528612904033739655" />
+          <Ticket strap="" barcode="728670510000523660" />
+          <Ticket strap="" barcode="528611201068805401" />
+          <Ticket strap="" barcode="528611202073016233" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11202" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611204048131408" />
+          <Ticket strap="" barcode="528611904059078777" />
+          <Ticket strap="" barcode="528611201068745127" />
+          <Ticket strap="" barcode="528612811010423936" />
+          <Ticket strap="" barcode="528612810010598903" />
+          <Ticket strap="" barcode="528611302073451659" />
+          <Ticket strap="" barcode="728670510000334839" />
+          <Ticket strap="" barcode="528611202072995270" />
+          <Ticket strap="" barcode="528610809010083337" />
+          <Ticket strap="" barcode="528611007044659682" />
+          <Ticket strap="" barcode="528620106013283526" />
+          <Ticket strap="" barcode="528620402015783461" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11203" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612805025560564" />
+          <Ticket strap="" barcode="528612101071982542" />
+          <Ticket strap="" barcode="528611201068760489" />
+          <Ticket strap="" barcode="528612801008856051" />
+          <Ticket strap="" barcode="528611002030713676" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11204" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612901029948237" />
+          <Ticket strap="" barcode="528611007044669049" />
+          <Ticket strap="" barcode="528611204048162983" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11205" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="11" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528620302004023687" />
+          <Ticket strap="" barcode="528611204048174528" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="11206" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="6" code="COP" denomination="10000.00" />
+          <Currency type="0" count="5" code="COP" denomination="20000.00" />
+          <Currency type="0" count="2" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611901036793258" />
+          <Ticket strap="" barcode="528611205071482826" />
+          <Ticket strap="" barcode="528611205071495833" />
+          <Ticket strap="" barcode="528611206094559205" />
+          <Ticket strap="" barcode="528612903024842794" />
+          <Ticket strap="" barcode="528611205071501770" />
+          <Ticket strap="" barcode="528611205071515036" />
+          <Ticket strap="" barcode="528611202073028939" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12401" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612402033437675" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12402" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612403022511581" />
+          <Ticket strap="" barcode="528612501031451048" />
+          <Ticket strap="" barcode="528610807015846582" />
+          <Ticket strap="" barcode="528612811010374641" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12403" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="12" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528610307030334144" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12404" id="">
+        <CurrencySet>
+          <Currency type="0" count="11" code="COP" denomination="2000.00" />
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612404036049336" />
+          <Ticket strap="" barcode="528612404036030921" />
+          <Ticket strap="" barcode="528612404036011562" />
+          <Ticket strap="" barcode="528612404035994224" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12501" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612906023135997" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12502" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528613005016568077" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12503" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12504" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12601" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="2000.00" />
+          <Currency type="0" count="2" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612503020264486" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12602" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611201068782924" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12603" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="2" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612604022994248" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12604" id="">
+        <CurrencySet>
+          <Currency type="0" count="2" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+        </CurrencySet>
+      </BillCassette>
+      <BillCassette slotNumber="12901" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612906023159887" />
+          <Ticket strap="" barcode="528611907053185946" />
+          <Ticket strap="" barcode="528613006018787817" />
+          <Ticket strap="" barcode="528611206094578848" />
+          <Ticket strap="" barcode="528612904033699904" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12902" id="">
+        <CurrencySet>
+          <Currency type="0" count="1" code="COP" denomination="5000.00" />
+          <Currency type="0" count="1" code="COP" denomination="10000.00" />
+          <Currency type="0" count="1" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528611001042623881" />
+          <Ticket strap="" barcode="528612906023149758" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12903" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+          <Currency type="0" count="3" code="COP" denomination="20000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612902024973286" />
+          <Ticket strap="" barcode="528613006018771441" />
+          <Ticket strap="" barcode="528612904033722428" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12904" id="">
+        <CurrencySet>
+          <Currency type="0" count="3" code="COP" denomination="2000.00" />
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="2" code="COP" denomination="10000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612905030394199" />
+          <Ticket strap="" barcode="528612905030373149" />
+          <Ticket strap="" barcode="528610604020933548" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12905" id="">
+        <CurrencySet>
+          <Currency type="0" count="4" code="COP" denomination="5000.00" />
+          <Currency type="0" count="8" code="COP" denomination="10000.00" />
+          <Currency type="0" count="4" code="COP" denomination="20000.00" />
+          <Currency type="0" count="3" code="COP" denomination="50000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612904033740989" />
+          <Ticket strap="" barcode="528612904033752142" />
+          <Ticket strap="" barcode="528612906023164485" />
+        </TicketSet>
+      </BillCassette>
+      <BillCassette slotNumber="12906" id="">
+        <CurrencySet>
+          <Currency type="0" count="6" code="COP" denomination="2000.00" />
+          <Currency type="0" count="3" code="COP" denomination="5000.00" />
+        </CurrencySet>
+        <TicketSet>
+          <Ticket strap="" barcode="528612602014159927" />
+          <Ticket strap="" barcode="528610903029672107" />
+          <Ticket strap="" barcode="528612905030386101" />
+          <Ticket strap="" barcode="528612702047112422" />
+        </TicketSet>
+      </BillCassette>
+    </CurrencyCounter>
+  </CountRoom>
+</STC>
+

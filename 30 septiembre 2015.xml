@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<STC>
+	<CountRoom version="" gamingDate="2015-09-30T10:41:30" transactionDate="2015-10-01T10:41:30" id="R00001">
+		<CurrencyCounter model="41015" serialNumber="00001" manufacturer="CUMMINS">
+			<BillCassette slotNumber="10101" id="">
+				<CurrencySet>
+					<Currency type="0" count="1" code="COP" denomination="2000.00"></Currency>
+					<Currency type="0" count="4" code="COP" denomination="5000.00"></Currency>
+					<Currency type="0" count="4" code="COP" denomination="10000.00"></Currency>
+				</CurrencySet>
+				<TicketSet>
+					<Ticket strap="" barcode="528610101004778626"></Ticket>
+					<Ticket strap="" barcode="528610101004809016"></Ticket>
+				</TicketSet>
+			</BillCassette>
+				</CurrencyCounter>
+	</CountRoom>
+</STC>
