@@ -44,12 +44,12 @@ public class CrearXml {
             CountRoom.setAttribute("version", "");
             CountRoom.setAttribute("gamingDate", (fecha + " " + "10:40:01").replace(" ", "T"));
             CountRoom.setAttribute("transactionDate", sdf.format(new Date()).replace(" ", "T"));
-            CountRoom.setAttribute("id", "R00003");
+            CountRoom.setAttribute("id", "R00001");
             doc.getRootElement().addContent(CountRoom);
 
             Element CurrencyCounter = new Element("CurrencyCounter");
             CurrencyCounter.setAttribute("model", "41015");
-            CurrencyCounter.setAttribute("serialNumber", "00003");
+            CurrencyCounter.setAttribute("serialNumber", "00001");
             CurrencyCounter.setAttribute("manufacturer", "CUMMINS");
             CountRoom.addContent(CurrencyCounter);
 
@@ -141,7 +141,7 @@ public class CrearXml {
 
             // display nice nice
             xmlOutput.setFormat(Format.getPrettyFormat());
-            xmlOutput.output(doc, new FileWriter("C:\\Users\\Public\\Documents\\csbatchR0005.xml"));
+            xmlOutput.output(doc, new FileWriter("C:\\Users\\Public\\Documents\\csbatchR0001.xml"));
 
             //System.out.println("File Saved!");
         } catch (IOException io) {

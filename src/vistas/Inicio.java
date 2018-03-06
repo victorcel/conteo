@@ -744,15 +744,15 @@ public class Inicio extends javax.swing.JFrame {
 
     }
     private void botoInicioConteoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_botoInicioConteoActionPerformed
-        if (!conectar()) {
+        /*if (!conectar()) {
             System.exit(0);
-        }
+        }*/
         //System.out.println(sdf.format(dateFecha.getDate()).replace(" ", "T"));
         botoInicioConteo.setEnabled(false);
         textNumerosMaquina.setEnabled(true);
         dateFecha.setEnabled(true);
         try {
-            puertoCom.arduinoRX("COM1", 9600, event);
+          //  puertoCom.arduinoRX("COM1", 9600, event);
         } catch (Exception ex) {
             Logger.getLogger(Inicio.class.getName()).log(Level.SEVERE, null, ex);
 
